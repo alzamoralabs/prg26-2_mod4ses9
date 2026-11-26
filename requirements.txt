@@ -1,0 +1,7 @@
+langchain==1.5.2
+langchain-openai==1.8.5
+langchain_ollama==1.2.0
+mcp==2.3.0            # SDK oficial de MCP (v2: MCPServer + Client)
+tavily-python==0.8.5
+python-dotenv==1.2.4
+ipykernel==7.4.0
